@@ -8,7 +8,7 @@
 2. Install all requirements
 ```pip install -r requirements.txt```
 
-### UNIX
+### Linux
 
 1. Install CMake
 ```sudo apt install cmake```
