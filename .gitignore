@@ -105,3 +105,8 @@ venv.bak/
 
 # saved file
 saved_face/
+
+# IDE
+.idea
+.vscode
+.code
